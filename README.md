@@ -25,4 +25,5 @@ Cada célula interage com suas oito vizinhas adjacentes horizontais, verticais o
     
 ____________________________________________________________________________________________________________________________________
 
+Inspirado no código da: https://www.google.com/amp/s/www.geeksforgeeks.org/program-for-conways-game-of-life/amp/
 
